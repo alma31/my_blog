@@ -1,0 +1,12 @@
+{
+    "name": "root/my_blog",
+    "authors": [
+        {
+            "name": "alma31",
+            "email": "lenni31@neuf.fr"
+        }
+    ],
+    "require": {
+        "j4mie/idiorm": "^1.5"
+    }
+}
